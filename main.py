@@ -91,7 +91,21 @@ def build_gpa_info_dl(gpa_lines):
     
     
     
-
+def get_set_in_stone_umr_hours_taken(gpa_info_dl):
+    hours = 0
+    for gpa_info_d in gpa_info_dl:
+        hours += gpa_info_d['hours']
+    return hours
+    
+    
+def get_total_letter_grade_points(gpa_info_dl):
+    hours = 0
+    for gpa_info_d in gpa_info_dl:
+        hours += gpa_info_d['letter_grade_points']
+    return hours
+    
+    
+    
     
 
 input_filename = 'input.txt'
@@ -108,8 +122,12 @@ gpa_lines = trim_non_gpa_lines(umr_lines)
 # write_text_file(output_test_path, gpa_lines)
 
 gpa_info_dl = build_gpa_info_dl(gpa_lines)
-print (gpa_info_dl) 
+# print (gpa_info_dl) 
 # write_text_file(output_test_path, gpa_lines)
+
+set_in_stone_umr_hours_taken = get_set_in_stone_umr_hours_taken(gpa_info_dl)
+print(set_in_stone_umr_hours_taken) 
+
 
 
 
