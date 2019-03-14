@@ -98,11 +98,11 @@ def get_set_in_stone_umr_hours_taken(gpa_info_dl):
     return hours
     
     
-def get_total_letter_grade_points(gpa_info_dl):
-    hours = 0
+def get_total_points(gpa_info_dl):
+    points = 0
     for gpa_info_d in gpa_info_dl:
-        hours += gpa_info_d['letter_grade_points']
-    return hours
+        points += gpa_info_d['letter_grade_points'] * gpa_info_d['hours']
+    return points
     
     
     
@@ -126,8 +126,14 @@ gpa_info_dl = build_gpa_info_dl(gpa_lines)
 # write_text_file(output_test_path, gpa_lines)
 
 set_in_stone_umr_hours_taken = get_set_in_stone_umr_hours_taken(gpa_info_dl)
-print(set_in_stone_umr_hours_taken) 
 
+total_points = get_total_points(gpa_info_dl)
+
+set_in_stone_umr_gpa = total_points / set_in_stone_umr_hours_taken
+
+
+print('set_in_stone_umr_hours_taken: ', set_in_stone_umr_hours_taken) 
+print('set_in_stone_umr_gpa: ', set_in_stone_umr_gpa)
 
 
 
