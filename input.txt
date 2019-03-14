@@ -1,0 +1,105 @@
+Date: 13-MAR-2019
+Name: Valley,Brandon Alexander
+ID: 12509380
+Date of Birth: 08/04/XXXX
+FALL 2013 Lewis And Clark Community College
+CIS 140 Comp Prog Logic A 3.0
+Span 131 Elem Spanish I A 4.0
+SPNG 2014 Lewis And Clark Community College
+CIS 210 Java Programming A 3.0
+Span 132 Elem Spanish II A 4.0
+FALL 2014 Lewis And Clark Community College
+Span 231 Inter Spanish I A 4.0
+SPNG 2015 Lewis And Clark Community College
+Math 171 Calc/Anal Geom I A 5.0
+Span 232 Intermediate Spanish II A 4.0
+AUG 2015 UGRD
+Math 1160 Trigonometry EX 2.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 0.0 2.0 0.00
+UGRD CUM: 27.0 29.0 108.00 4.000
+FALL 2015 Advanced Placement Credit
+Math 1214 Calculus for Engineers I EX 4.0
+Phys 1135 Engineering Physics I EX 4.0
+FALL 2015 UGRD FR-EL ENG
+Chem 1100 Intro/Lab Safety&Haz Mtr A 1.0
+Chem 1310 General Chemistry B 4.0
+Chem 1319 General Chemistry Lab A 1.0
+Econ 1200 Prin of Macroeconomics A 3.0
+Fr Eng 1100 Study & Careers in Engr A 1.0
+Math 1215 Calc for Engrs II B 4.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 14.0 14.0 48.00 3.429
+UGRD CUM: 41.0 51.0 156.00 3.805
+SPNG 2016 Columbia College
+Math 300 Multivariate Calculus B 3.0
+Math 370 Differential Equations A 3.0
+SPNG 2016 UGRD FR-EL ENG
+History 1310 Amer History Since 1877 A 3.0
+Mech Eng 1720 Intro to Engr Design A 3.0
+Physics 2135 Engineering Physics II A 4.0
+Pol Sci 1200 American Government A 3.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 13.0 13.0 52.00 4.000
+UGRD CUM: 60.0 70.0 229.00 3.817
+SUM 2016 Johnson County Community College
+Math 246 Elementary Linear Algebra A 3.0
+SUM 2016 Saint Louis Community College - Florissant Valley
+Eng 101 College Comp I A 3.0
+FALL 2016 UGRD CP ENG-BS
+Missouri University of Science and Technology
+Unofficial Academic Record
+Comp Eng 2210 Intro to Digital Logic A 3.0
+Comp Eng 2211 Computer Engr Laboratory A 1.0
+Comp Sci 1570 Intro to Programming B 3.0
+Comp Sci 1580 Intro to Programming Lab A 1.0
+Elec Eng 2100 Circuits I A 3.0
+Elec Eng 2101 Circuit Analysis Lab I A 1.0
+Sp&M S 1185 Principles of Speech A 3.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 15.0 15.0 57.00 3.800
+UGRD CUM: 81.0 91.0 310.00 3.827
+SPNG 2017 UGRD CP ENG-BS
+Elec Eng 3002 Coop Engr Training S 1.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 0.0 1.0 0.00
+UGRD CUM: 81.0 92.0 310.00 3.827
+FALL 2017 UGRD CP ENG-BS
+Comp Eng 3150 Intro Micro Embed Design A 3.0
+Elec Eng 2120 Circuits II B 3.0
+Elec Eng 2200 Intro Electronic Devices B 3.0
+Elec Eng 2201 Electronic Devices Lab A 1.0
+English 3560 Technical Writing A 3.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 13.0 13.0 46.00 3.538
+UGRD CUM: 94.0 105.0 356.00 3.787
+SPNG 2018 UGRD CP ENG-BS
+Comp Eng 3151 Digital Eng Lab II A 1.0
+Comp Sci 1575 Data Structures A 3.0
+Elec Eng 3100 Electronics I A 3.0
+Elec Eng 3101 Electronics I Lab A 1.0
+Elec Eng 3410 Dsp A 3.0
+Stat 3115 Engineering Statistics A 3.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 14.0 14.0 56.00 4.000
+UGRD CUM: 108.0 119.0 412.00 3.815
+FALL 2018 UGRD CP ENG-BS
+Comp Sci 1200 Discrete Math for Cmp Sc A 3.0
+Elec Eng 3430 Digital Communications I A 3.0
+Elec Eng 3431 Digital Commun Lab A 1.0
+Elec Eng 3500 Electromechanics A 3.0
+Elec Eng 3501 Electromechanics Lab A 1.0
+Mech Eng 2340 Statics and Dynamics A 3.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD Term: 14.0 14.0 56.00 4.000
+UGRD CUM: 122.0 133.0 468.00 3.836
+SPNG 2019 UGRD CP ENG-BS
+Comp Eng 3110 Computer Org and Design IP 3.0
+Comp Eng 5170 Real-Time Systems IP 3.0
+Comp Sci 3800 Intro to Operating Syst IP 3.0
+Elec Eng 3600 Electromagnetics IP 4.0
+Elec Eng 4096 EE Senior Project I IP 1.0
+ Hrs Att Hrs Ern Qual Pts GPA
+UGRD CUM: 122.0 133.0 468.00 3.836
+Missouri University of Science and Technology
+Unofficial Academic Record

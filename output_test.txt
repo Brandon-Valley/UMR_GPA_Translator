@@ -1,0 +1,34 @@
+Chem 1100 Intro/Lab Safety&Haz Mtr A 1.0
+Chem 1310 General Chemistry B 4.0
+Chem 1319 General Chemistry Lab A 1.0
+Econ 1200 Prin of Macroeconomics A 3.0
+Fr Eng 1100 Study & Careers in Engr A 1.0
+Math 1215 Calc for Engrs II B 4.0
+History 1310 Amer History Since 1877 A 3.0
+Mech Eng 1720 Intro to Engr Design A 3.0
+Physics 2135 Engineering Physics II A 4.0
+Pol Sci 1200 American Government A 3.0
+Comp Eng 2210 Intro to Digital Logic A 3.0
+Comp Eng 2211 Computer Engr Laboratory A 1.0
+Comp Sci 1570 Intro to Programming B 3.0
+Comp Sci 1580 Intro to Programming Lab A 1.0
+Elec Eng 2100 Circuits I A 3.0
+Elec Eng 2101 Circuit Analysis Lab I A 1.0
+Sp&M S 1185 Principles of Speech A 3.0
+Comp Eng 3150 Intro Micro Embed Design A 3.0
+Elec Eng 2120 Circuits II B 3.0
+Elec Eng 2200 Intro Electronic Devices B 3.0
+Elec Eng 2201 Electronic Devices Lab A 1.0
+English 3560 Technical Writing A 3.0
+Comp Eng 3151 Digital Eng Lab II A 1.0
+Comp Sci 1575 Data Structures A 3.0
+Elec Eng 3100 Electronics I A 3.0
+Elec Eng 3101 Electronics I Lab A 1.0
+Elec Eng 3410 Dsp A 3.0
+Stat 3115 Engineering Statistics A 3.0
+Comp Sci 1200 Discrete Math for Cmp Sc A 3.0
+Elec Eng 3430 Digital Communications I A 3.0
+Elec Eng 3431 Digital Commun Lab A 1.0
+Elec Eng 3500 Electromechanics A 3.0
+Elec Eng 3501 Electromechanics Lab A 1.0
+Mech Eng 2340 Statics and Dynamics A 3.0
